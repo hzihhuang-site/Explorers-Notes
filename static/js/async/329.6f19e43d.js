@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunkrspress_doc_template=self.webpackChunkrspress_doc_template||[]).push([["329"],{6943:function(e,s,r){r.r(s),r.d(s,{default:function(){return i}});var t=r(5893),a=r(4482);let l=a.ZP.a`
+"use strict";(self.webpackChunkrspress_doc_template=self.webpackChunkrspress_doc_template||[]).push([["329"],{6943:function(e,s,r){r.r(s),r.d(s,{default:function(){return i}});var t=r(2676),a=r(7294);let l=a.ZP.a`
   padding: 8px 16px;
   border-radius: 8px;
   background-color: var(--rp-c-bg-soft);
